@@ -1,0 +1,5 @@
+{
+  "client_id": "YOUR_CLIENT_ID_FROM_DEVELOPER_PORTAL",
+  "telegram_bot_token": "TOKEN_FROM_BOTFATHER",
+  "telegram_chat_id": "YOUR_CHAT_ID"
+}
